@@ -1,0 +1,7 @@
+{
+  "name": "ImagoPedia",
+  "description": "An AI-powered application that uses your camera to identify objects and health concerns in real-time. Discover facts, technical details, and health insights with a click.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
